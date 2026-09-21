@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+#include <iostream>
+int main() {
+int a, b, c;
+    std::cout << "Enter First Number"<< endl;
+    std::cin >> a;
+    std::cout << "The First Number: "<< a << endl;
+    std::cout << "Enter Second Number: "<< endl;
+    std::cin >> b;
+    std::cout << "The First Number: "<< a << endl;
+    std::cout << "Enter Third Number: "<< endl;
+    std::cin >> c;
+    std::cout << "The Third Number is: "<< b << endl;
+    std::cout << "The sum of a, b, and c is :"<<a+b+c<< endl;
+    std::cout << "The sum of A, B, C, multipied to 5 is: "<<(a+b+c)*5 <<endl;
+    return 0;
+}
