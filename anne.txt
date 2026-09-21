@@ -16,3 +16,4 @@ int a, b, c;
     std::cout << "The sum of A, B, C, multipied to 5 is: "<<(a+b+c)*5 <<endl;
     return 0;
 }
+dgffgdfdfgdgf
